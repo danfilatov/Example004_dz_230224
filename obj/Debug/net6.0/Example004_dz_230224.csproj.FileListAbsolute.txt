@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\Example004_dz_230224.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\Example004_dz_230224.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\Example004_dz_230224.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\Example004_dz_230224.AssemblyInfo.cs
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\Example004_dz_230224.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\bin\Debug\net6.0\Example004_dz_230224.exe
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\bin\Debug\net6.0\Example004_dz_230224.deps.json
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\bin\Debug\net6.0\Example004_dz_230224.runtimeconfig.json
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\bin\Debug\net6.0\Example004_dz_230224.dll
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\bin\Debug\net6.0\Example004_dz_230224.pdb
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\Example004_dz_230224.dll
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\refint\Example004_dz_230224.dll
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\Example004_dz_230224.pdb
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\Example004_dz_230224.genruntimeconfig.cache
+C:\Users\1\Desktop\VSCode\Example\Example004_dz_230224\obj\Debug\net6.0\ref\Example004_dz_230224.dll
